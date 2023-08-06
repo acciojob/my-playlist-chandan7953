@@ -14,6 +14,9 @@ body {
 	border-radius:10px;
 	
 }
+h1, h2{
+	text-align:center;
+}
 .player_two{
 	width:auto;
 	display:inline-block;
@@ -24,4 +27,7 @@ body {
 }
 li{
 	list-style-type:none;
+}
+li>a{
+	text-decoration:none;
 }
